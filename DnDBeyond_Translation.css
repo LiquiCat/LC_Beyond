@@ -1,0 +1,967 @@
+/*==============Главная страница==============*/
+
+/*=======Главное меню=======*/
+#mega-menu-target li:nth-of-type(1) button{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) button:after{
+    font-size: 0.9rem;
+    content: "Коллекции v";
+}
+
+#mega-menu-target li:nth-of-type(2) button{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) button:after{
+    font-size: 0.9rem;
+    content: "Игровые правила v";
+}
+
+#mega-menu-target li:nth-of-type(3) button{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(3) button:after{
+    font-size: 0.9rem;
+    content: "Источники v";
+}
+
+#mega-menu-target li:nth-of-type(4) button{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) button:after{
+    font-size: 0.9rem;
+    content: "Инструменты v";
+}
+
+#mega-menu-target li:nth-of-type(5) button{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(5) button:after{
+    font-size: 0.9rem;
+    content: "Соц. Сети v";
+}
+ 
+#mega-menu-target li:nth-of-type(6) a{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(6) a:after{
+    font-size: 0.9rem;
+    content: "Форумы";
+}
+
+#mega-menu-target li:nth-of-type(7) a{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(7) a:after{
+    font-size: 0.9rem;
+    content: "Игровые гайды";
+}
+
+#mega-menu-target li:nth-of-type(8) a{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(8) a:after{
+    font-size: 0.9rem;
+    content: "Подписка";
+}
+
+#mega-menu-target li:nth-of-type(9) a{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(9) a:after{
+    font-size: 0.9rem;
+    content: "Магазин";
+}
+
+
+/*=======Подменю Коллекции=======*/
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(1) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(1) p:after{
+    font-size: 1rem;
+    content: "Мои персонажи";
+}
+
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(2) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(2) p:after{
+    font-size: 1rem;
+    content: "Мои Компании";
+}
+
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(3) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(3) p:after{
+    font-size: 1rem;
+    content: "Мои Сценарии Сражения";
+}
+
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(4) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(4) p:after{
+    font-size: 1rem;
+    content: "Добавленные самодельные творения";
+}
+
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(5) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(5) p:after{
+    font-size: 1rem;
+    content: "Мои самодельные творения";
+}
+
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(6) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) a:nth-of-type(6) p:after{
+    font-size: 1rem;
+    content: "Мои дайсы";
+}
+
+
+#mega-menu-target li:nth-of-type(1) ._heading_e6o7w_1 p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._heading_e6o7w_1 p:after{
+    font-size: 1rem;
+    content: "Самодельное";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(1) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(1) span:after{
+    font-size: 0.9rem;
+    content: "Создать заклинание";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(8) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(8) span:after{
+    font-size: 0.9rem;
+    content: "Искать заклинания";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(2) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(2) span:after{
+    font-size: 0.9rem;
+    content: "Создать монстра";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(9) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(9) span:after{
+    font-size: 0.9rem;
+    content: "Искать монстров";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(3) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(3) span:after{
+    font-size: 0.9rem;
+    content: "Создать магический предмет";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(10) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(10) span:after{
+    font-size: 0.9rem;
+    content: "Искать магические предметы";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(4) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(4) span:after{
+    font-size: 0.9rem;
+    content: "Создать предысторию";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(11) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(11) span:after{
+    font-size: 0.9rem;
+    content: "Искать предыстории";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(5) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(5) span:after{
+    font-size: 0.9rem;
+    content: "Создать черту";
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(12) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(12) span:after{
+    font-size: 0.9rem;
+    content: "Искать черты";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(6) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(6) span:after{
+    font-size: 0.9rem;
+    content: "Создать вид (расу)";
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(13) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(13) span:after{
+    font-size: 0.9rem;
+    content: "Искать виды (расы)";
+}
+
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(7) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(7) span:after{
+    font-size: 0.9rem;
+    content: "Создать подкласс";
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(14) span{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(1) ._twoColumns_hy09m_1 div:nth-of-type(14) span:after{
+    font-size: 0.9rem;
+    content: "Искать подклассы";
+}
+
+
+/*=======Подменю Игровые правила=======*/
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(1) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(1) p:after{
+    font-size: 1rem;
+    content: "Классы";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(2) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(2) p:after{
+    font-size: 1rem;
+    content: "Предыстроии";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(3) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(3) p:after{
+    font-size: 1rem;
+    content: "Виды (расы)";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(4) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(4) p:after{
+    font-size: 1rem;
+    content: "Черты";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(5) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(5) p:after{
+    font-size: 1rem;
+    content: "Заклинания";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(6) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(6) p:after{
+    font-size: 1rem;
+    content: "Предметы";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(7) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(7) p:after{
+    font-size: 1rem;
+    content: "Волшебные Предметы";
+}
+
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(8) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(2) a:nth-of-type(8) p:after{
+    font-size: 1rem;
+    content: "Монстры";
+}
+
+
+/*=======Подменю Инструменты=======*/
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(1) a:nth-of-type(1) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(1) a:nth-of-type(1) p:after{
+    font-size: 1.1rem;
+    content: "Создание персонажа";
+}
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(1) a:nth-of-type(2) p:after{
+    content: " (3D карты)";
+}
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(2) a:nth-of-type(1) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(2) a:nth-of-type(1) p:after{
+    font-size: 1.1rem;
+    content: "Карты";
+}
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(2) a:nth-of-type(2) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(2) a:nth-of-type(2) p:after{
+    font-size: 1.1rem;
+    content: "Сценарии сражения";
+}
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(3) a:nth-of-type(1) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(3) a:nth-of-type(1) p:after{
+    font-size: 1.1rem;
+    content: "Мобильное приложение";
+}
+
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(3) a:nth-of-type(2) p{
+    font-size: 0;
+}
+#mega-menu-target li:nth-of-type(4) ._stack_4hen7_7:nth-of-type(3) a:nth-of-type(2) p:after{
+    font-size: 1.1rem;
+    content: "Discord бот";
+}
+
+
+
+/*==============Страница с Кампаниями==============*/
+
+h1.page-title{
+    font-size: 0;
+}
+h1.page-title:after{
+    font-size: 2rem;
+    content: "Мои кампании";
+}
+
+.ddb-campaigns-listing-active-header-primary{
+    font-size: 0;
+}
+.ddb-campaigns-listing-active-header-primary:Before{
+    font-size: 1rem;
+    content: "Активные кампании";
+}
+
+.ddb-campaigns-listing-active-header-secondary{
+    font-size: 0;
+}
+.ddb-campaigns-listing-active-header-secondary:before{
+    font-size: 1rem;
+    content: "В ваши активные кампании могут присоединяться новые игроки, и они занимают слоты для совместного использования, если используются в кампании.";
+}
+
+
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(1){
+    font-size: 0;
+}
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(1):after{
+    font-size: 0.8rem;
+    content: "Зайти в кампанию";
+}
+
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(2){
+    font-size: 0;
+}
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(2):after{
+    font-size: 0.8rem;
+    content: "Деактивировать";
+}
+
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(3){
+    font-size: 0;
+}
+.ddb-campaigns-list-item-footer-buttons a:nth-of-type(3):after{
+    font-size: 0.8rem;
+    content: "Удалить";
+}
+
+
+/*Debug
+#mega-menu-target li:nth-of-type(6) ._panel_16aoe_1{
+    display: inline;
+}*/
+
+
+/**/
+
+
+
+
+/*==============Лист Персонажа==============*/
+
+/*=======Перевод навыков=======*/
+
+.ct-skills__col--proficiency .ct-skills__heading{
+    font-size: 0;
+}
+.ct-skills__col--proficiency .ct-skills__heading:after{
+    font-size: 0.6rem;
+    content: "Маст.";
+}
+
+.ct-skills__col--stat .ct-skills__heading{
+    font-size: 0;
+}
+.ct-skills__col--stat .ct-skills__heading:after{
+    font-size: 0.6rem;
+    content: "Хар.";
+}
+
+.ct-skills__col--skill .ct-skills__heading{
+    font-size: 0;
+}
+.ct-skills__col--skill .ct-skills__heading:after{
+    font-size: 0.6rem;
+    content: "Навык";
+}
+
+.ct-skills__col--modifier .ct-skills__heading{
+    font-size: 0;
+}
+.ct-skills__col--modifier .ct-skills__heading:after{
+    font-size: 0.6rem;
+    content: "модификатор";
+}
+
+
+.ct-skills__item:nth-of-type(1) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(1) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Акробатика";
+}
+.ct-skills__item:nth-of-type(1) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(1) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "лов";
+}
+
+.ct-skills__item:nth-of-type(2) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(2) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Уход за животными";
+}
+.ct-skills__item:nth-of-type(2) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(2) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "муд";
+}
+
+.ct-skills__item:nth-of-type(3) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(3) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Магия";
+}
+.ct-skills__item:nth-of-type(3) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(3) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "инт";
+}
+
+.ct-skills__item:nth-of-type(4) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(4) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Атлетика";
+}
+.ct-skills__item:nth-of-type(4) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(4) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "сил";
+}
+
+.ct-skills__item:nth-of-type(5) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(5) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Обман";
+}
+.ct-skills__item:nth-of-type(5) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(5) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "хар";
+}
+
+.ct-skills__item:nth-of-type(6) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(6) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "История";
+}
+.ct-skills__item:nth-of-type(6) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(6) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "инт";
+}
+
+.ct-skills__item:nth-of-type(7) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(7) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Проницательность";
+}
+.ct-skills__item:nth-of-type(7) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(7) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "муд";
+}
+
+.ct-skills__item:nth-of-type(8) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(8) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Запугивание";
+}
+.ct-skills__item:nth-of-type(8) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(8) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "хар";
+}
+
+.ct-skills__item:nth-of-type(9) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(9) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Расследование";
+}
+.ct-skills__item:nth-of-type(9) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(9) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "инт";
+}
+
+.ct-skills__item:nth-of-type(10) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(10) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Медицина";
+}
+.ct-skills__item:nth-of-type(10) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(10) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "муд";
+}
+
+.ct-skills__item:nth-of-type(11) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(11) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Природа";
+}
+.ct-skills__item:nth-of-type(11) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(11) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "инт";
+}
+
+.ct-skills__item:nth-of-type(12) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(12) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Восприятие";
+}
+.ct-skills__item:nth-of-type(12) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(12) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "муд";
+}
+
+.ct-skills__item:nth-of-type(13) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(13) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Выступление";
+}
+.ct-skills__item:nth-of-type(13) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(13) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "хар";
+}
+
+.ct-skills__item:nth-of-type(14) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(14) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Убеждение";
+}
+.ct-skills__item:nth-of-type(14) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(14) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "хар";
+}
+
+.ct-skills__item:nth-of-type(15) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(15) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Религия";
+}
+.ct-skills__item:nth-of-type(15) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(15) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "инт";
+}
+
+.ct-skills__item:nth-of-type(16) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(16) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Ловкость рук";
+}
+.ct-skills__item:nth-of-type(16) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(16) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "лов";
+}
+
+.ct-skills__item:nth-of-type(17) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(17) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Скрытность";
+}
+.ct-skills__item:nth-of-type(17) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(17) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "лов";
+}
+
+.ct-skills__item:nth-of-type(18) .ct-skills__col--skill{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(18) .ct-skills__col--skill:after {
+    font-size: 0.9rem;
+    content: "Выживание";
+}
+.ct-skills__item:nth-of-type(18) .ct-skills__col--stat{
+    font-size: 0;
+}
+.ct-skills__item:nth-of-type(18) .ct-skills__col--stat:after{
+    font-size: 0.8rem;
+    content: "муд";
+}
+
+.ct-skills__additional{
+    font-size: 0;
+}
+.ct-skills__additional:after{
+    font-size: 0.8rem;
+    content: "Дополнительные навыки";
+}
+
+.ct-subsection--skills .ddbc-manage-icon__content{
+    font-size: 0;
+}
+.ct-subsection--skills .ddbc-manage-icon__content:after{
+    font-size: 0.8rem;
+    content: "Навыки";
+}
+
+/*=======Перевод характеристик=======*/
+.ct-quick-info__ability:nth-of-type(1) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(1) .ddbc-ability-summary__label:after {
+    font-size: 0.8rem;
+    content: "Сила";
+}
+
+.ct-quick-info__ability:nth-of-type(2) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(2) .ddbc-ability-summary__label:after {
+    font-size: 0.8rem;
+    content: "Ловкость";
+}
+
+.ct-quick-info__ability:nth-of-type(3) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(3) .ddbc-ability-summary__label:after {
+    font-size: 0.6rem;
+    content: "Выносливость";
+}
+
+.ct-quick-info__ability:nth-of-type(4) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(4) .ddbc-ability-summary__label:after {
+    font-size: 0.6rem;
+    content: "Интеллект";
+}
+
+.ct-quick-info__ability:nth-of-type(5) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(5) .ddbc-ability-summary__label:after {
+    font-size: 0.6rem;
+    content: "Мудрость";
+}
+
+.ct-quick-info__ability:nth-of-type(6) .ddbc-ability-summary__label {
+    font-size: 0;
+}
+.ct-quick-info__ability:nth-of-type(6) .ddbc-ability-summary__label:after {
+    font-size: 0.6rem;
+    content: "Харизма";
+}
+
+/*=======Перевод разных характеристик=======*/
+.ct-quick-info__box--proficiency .ct-proficiency-bonus-box__heading {
+    font-size: 0;
+}
+.ct-quick-info__box--proficiency .ct-proficiency-bonus-box__heading:after {
+    font-size: 0.7rem;
+    content: "Мастерство";
+}
+
+.ct-proficiency-bonus-box__label {
+    font-size: 0;
+}
+.ct-proficiency-bonus-box__label:after {
+    font-size: 0.9rem;
+    content: "Бонус";
+}
+
+.ct-combat__summary-group--initiative .styles_label__6xv1b{
+    font-size: 0;
+}
+.ct-combat__summary-group--initiative .styles_label__6xv1b:after {
+    font-size: 1rem;
+    content: "Инициатива";
+}
+
+.ct-speed-box__heading {
+    font-size: 0;
+}
+.ct-speed-box__heading:after {
+     font-size: 0.7rem;
+    content: "Пешком";
+}
+
+.ct-speed-box__label {
+    font-size: 0;
+}
+.ct-speed-box__label:after {
+    font-size: 0.9rem;
+    content: "Скорость";
+}
+
+.styles_label__Bj6YW{
+    font-size: 0;
+}
+.styles_label__Bj6YW:after {
+    font-size: 0.7rem;
+    content: "Вдохновение";
+}
+
+
+/*=======Перевод спасбросков=======*/
+.ddbc-saving-throws-summary__ability--str abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--str abbr:after{
+    font-size: 0.8rem;
+    content: "Сил";
+}
+
+.ddbc-saving-throws-summary__ability--dex abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--dex abbr:after{
+    font-size: 0.8rem;
+    content: "Лов";
+}
+
+.ddbc-saving-throws-summary__ability--con abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--con abbr:after{
+    font-size: 0.8rem;
+    content: "Вын";
+}
+
+.ddbc-saving-throws-summary__ability--int abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--int abbr:after{
+    font-size: 0.8rem;
+    content: "Инт";
+}
+
+.ddbc-saving-throws-summary__ability--wis abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--wis abbr:after{
+    font-size: 0.8rem;
+    content: "Муд";
+}
+
+.ddbc-saving-throws-summary__ability--cha abbr{
+    font-size: 0;
+}
+.ddbc-saving-throws-summary__ability--cha abbr:after{
+    font-size: 0.8rem;
+    content: "Хар";
+}
+
+
+.ct-saving-throws-box .ct-saving-throws-box__modifiers:before{
+    content: "Модификаторы спасбросков \a";
+}
+
+.ct-subsection--abilities .ct-subsection__footer .ddbc-manage-icon__content{
+    font-size: 0;
+}
+.ct-subsection--abilities .ct-subsection__footer .ddbc-manage-icon__content:after{
+    font-size: 0.8rem;
+    content: "Спасброски";
+}
+
+/*=======Перевод Здоровья========*/
+
+.ct-quick-info__health .styles_label__Ivf2i{
+    font-size: 0;
+}
+.ct-quick-info__health .styles_label__Ivf2i:before{
+    font-size: 0.8rem;
+    content: "Пункты здоровья";
+}
+
+/*
+.ct-quick-info__health .styles_item__UVpsr:nth-of-type(1) label{
+    font-size: 0.5rem;
+}
+.ct-quick-info__health .styles_item__UVpsr:nth-of-type(1) label:after{
+    font-size: 0.8rem;
+    content: "Текущее ";
+}
+*/
+
+/*=======Пассивные восприятия=======*/
+.ct-senses-box .ct-senses__callouts div:nth-of-type(1) .ct-senses__callout-label {
+    font-size: 0;
+}
+.ct-senses-box .ct-senses__callouts div:nth-of-type(1) .ct-senses__callout-label:after {
+    font-size: 0.6rem;
+    content: "Пассивное восприятие";
+}
+
+.ct-senses-box .ct-senses__callouts div:nth-of-type(2) .ct-senses__callout-label {
+    font-size: 0;
+}
+.ct-senses-box .ct-senses__callouts div:nth-of-type(2) .ct-senses__callout-label:after {
+    font-size: 0.6rem;
+    content: "Пассивное расследование";
+}
+
+.ct-senses-box .ct-senses__callouts div:nth-of-type(3) .ct-senses__callout-label {
+    font-size: 0;
+}
+.ct-senses-box .ct-senses__callouts div:nth-of-type(3) .ct-senses__callout-label:after {
+    font-size: 0.6rem;
+    content: "Пассивная проницательность";
+}
+
+.ct-senses-box .ct-senses__summary:before {
+    font-size: 1rem;
+    content: "Тёмное зрение (";
+}
+.ct-senses-box .ct-senses__summary:after {
+    font-size: 1rem;
+    content: ")";
+}
+
+.ct-senses-desktop .ddbc-manage-icon__content{
+    font-size: 0;
+}
+.ct-senses-desktop .ddbc-manage-icon__content:after{
+    font-size: 0.8rem;
+    content: "Восприятия";
+}
